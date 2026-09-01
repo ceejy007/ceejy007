@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi, I'm Christine Jay Tapat 👋
+
+
+Frontend Developer
+
+I’m a passionate frontend developer who enjoys creating clean, responsive, and user-friendly digital experiences. I work with modern web technologies, design tools, databases, and development environments to turn ideas into functional applications.
 
 <!--
-**CJ-Tineee/CJ-Tineee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*CJ-Tineee/CJ-Tineee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
