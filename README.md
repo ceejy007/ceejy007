@@ -1,4 +1,4 @@
-# Hi, I'm I'm Christine Jay Tapat 👋
+# Hi, I'm Christine Jay Tapat 👋
 
 ### Frontend Developer | Web & Application Developer
 
